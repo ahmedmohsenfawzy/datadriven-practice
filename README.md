@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ample_coral_8489), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [One-Track Mind](./practice/sql/one-track-mind) | SQL | Medium | 2026-07-12 |
 | [The Ones That Count](./practice/python/the-ones-that-count) | Python | Easy | 2026-07-12 |
 
 <!-- datadriven:index:end -->
