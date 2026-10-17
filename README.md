@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ample_coral_8489), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-10-17 |
 | [Endpoint Performance Report](./practice/sql/endpoint-performance-report) | SQL | Medium | 2026-07-19 |
 | [One-Track Mind](./practice/sql/one-track-mind) | SQL | Medium | 2026-07-12 |
 | [The Ones That Count](./practice/python/the-ones-that-count) | Python | Easy | 2026-07-12 |
