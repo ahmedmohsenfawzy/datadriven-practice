@@ -1,7 +1,3 @@
-from pyspark.sql.function import col
-from pyspark.sql.function import year
-rdd = (user_sessions.filter((col("session_duration_sec") < 100) 
-  & (year(col("session_start")) == 2026))
-  .select("session_id","user_id","session_duration_sec")
-)
-rdd.show()
+select session_id, user_id, session_duration_sec
+from user_sessions
+where session_duration_sec < 100 and year(session_start) = 2026
